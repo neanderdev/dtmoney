@@ -1,46 +1,78 @@
-# Getting Started with Create React App
+# DT Money
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub repo size](https://img.shields.io/github/repo-size/neanderdev/dtmoney?style=for-the-badge)
+![GitHub languages](https://img.shields.io/github/languages/count/neanderdev/dtmoney?style=for-the-badge)
+![GitHub language top](https://img.shields.io/github/languages/top/neanderdev/dtmoney?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/neanderdev/dtmoney?style=for-the-badge)
 
-## Available Scripts
+<img src="capa.png" alt="Capa DT Money">
 
-In the project directory, you can run:
+> 🚀 Aplicação desenvolvida no Ignite curso da Rocketseat, desenvolvida com ReactJS junto com o TypeScript, na estilização junto com styled-components e como API fake o MirageJS.
 
-### `yarn start`
+## ⚙️ Ajustes e melhorias
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [x] Tabela de transação
+- [x] Modal de transação
+- [x] Chamando uma API
+- [ ] Responsividade
 
-### `yarn test`
+## 🚀 Tecnologias
+[![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://pt-br.reactjs.org/docs/getting-started.html)
+[![TYPESCRIPT](https://img.shields.io/badge/Typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=black)](https://www.typescriptlang.org/docs/)
+[![STYLED-COMPONENTS](https://img.shields.io/badge/Styled_Components-C770AC?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/docs)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻 Pré-requisitos
 
-### `yarn build`
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+* Você instalou a versão mais recente de `<GIT / NodeJS / Yarn>`.
+* Você tem uma máquina `<Windows / Linux / Mac>`.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Rodando dtmoney na sua máquina
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Para rodar o dtmoney na sua máquina, siga estas etapas:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+# Clone this repository
+$ git clone https://github.com/neanderdev/dtmoney.git
 
-### `yarn eject`
+# Go into the repository
+$ cd dtmoney
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Install dependencies
+$ yarn install
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Run the app
+$ yarn start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 📫 Contribuindo para dtmoney
+<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+Para contribuir com dtmoney, siga estas etapas:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
 
-## Learn More
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🤝 Colaboradores
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars3.githubusercontent.com/u/62663706" width="100px;" alt="Foto do Neander de Souza no GitHub"/><br>
+        <sub>
+          <b>Neander de Souza</b>
+        </sub>
+      </a>
+    </td>    
+  </tr>
+</table>
